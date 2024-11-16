@@ -16,11 +16,5 @@
     <li>Session và Cookie</li>
     <li>Kết nối cơ sở dữ liệu</li>
   </ul>
-  <li>Laravel Framework</li>
-  <ul>
-    <li>Giới thiệu</li>
-    <li>Cách setup dự án</li>
-    <li>Làm việc với Laravel</li>
-    <li>Tạo Authencation với Breeze</li>
-  </ul>
+  
 </ol>
